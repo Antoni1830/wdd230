@@ -1,0 +1,98 @@
+:root {
+  
+    --primary-color: #4085BF   ;
+    --secondary-color: #F7F3E8 ;
+    --accent1-color: #2575BA;
+    --accent2-color: #0E67B5;
+  
+   
+    --heading-font: "Fresca";
+    --paragraph-font: roboto, Helvetica, sans-serif;
+  
+  
+    
+    --headline-color-on-white: #396E94; 
+    --headline-color-on-color: white;  
+    --paragraph-color-on-white: #396E94;  
+    --paragraph-color-on-color: white; 
+    --paragraph-background-color: #396E94  ;
+    --nav-link-color: #396E94;
+    --nav-background-color: #F7F3E8;
+    --nav-hover-link-color: white;
+    --nav-hover-background-color: #396E94;
+  }
+  body{font-family: Arial, Helvetica, sans-serif;}
+ .aajr{max-width: 150px;
+    
+;margin-left: 500px; 
+}
+
+
+
+header {width: auto;
+height:auto;
+background-color: #4085BF;
+display: flex;
+text-align: center;
+
+
+}
+
+ h1 {display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    
+    
+    
+    
+    
+}
+h2{
+    text-align: center;
+    border-width: 5px;
+    border-color: black;
+    
+}
+nav ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+
+    ;background-color: black;
+}
+
+nav ul a{color: white;
+background: black;
+display: block;
+;
+text-decoration: none;
+margin-top: 10px}
+
+footer {background-color:   #4085BF;
+    justify-content: space-around;
+    align-items: center;
+    padding: 25px 50px;
+text-align: center;
+}
+
+.vene{max-width: 100px;
+margin-top: 30px;
+text-align: center;}
+
+.card{
+    border-style: double;
+    text-align: center;
+}
+.card h3{background-color: #396E94;
+width: auto;
+height: auto;
+color: white;}
+
+.card2{background-color: #396E94;
+    width: auto;
+    height: auto;
+    color: white;
+    border-style: double;
+    text-align: center}
