@@ -1,0 +1,24 @@
+{
+    "TheFamilyName": "Jemmotte Raimondo",
+    "Datemovedintoward":"11/07/2023",
+    "Numberofpeople":"3",
+    "Visited by bishopric":"yes",
+    "Individual family members":[
+        {
+           "Name":"Antoni Jemmotte",
+            "Gender":"Masculine",
+            "Birthdate":"08/08/2000"
+        },
+        {
+            "Name":"Adrian Jemmotte",
+            "Gender":"Masculine",
+            "Birthdate":"18/02/1974"
+
+        },
+        {
+            "Name":"Graciela Raimondo",
+            "Gender":"female",
+            "Birthdate":"28/06/1966"
+        }
+    ]
+}
