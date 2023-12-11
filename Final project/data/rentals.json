@@ -1,0 +1,46 @@
+{
+  
+      "name1": "Scooter Honda Metro",
+      "Capacidad1": "Máx. personas : 1",
+      "Mdia1": " Medio Día Reserva->$20, Entrar ->$25",
+      "Cdia1": "Día completo Reserva->$30, Entrar ->$35",
+      "image or icon file names1":"https://wieck-honda-production.s3.amazonaws.com/photos/594eb8fac157f3e333abb9f8516cba039eb93fc1/preview-928x522.jpg",
+      
+    
+    
+      "name2": "Scooter Honda Dio",
+      "Capacidad2": "Máx. personas : 2",
+      "Mdia2": " Medio Día Reserva->$30, Entrar ->$35",
+      "Cdia2": "Día completo Reserva->$40, Entrar ->$45",
+      "image or icon file names2":"https://hondacenter.cl/wp-content/uploads/2021/06/Diseno-sin-titulo-40.png",
+    
+    
+      "name3": "Scooter Honda PCX150",
+      "Capacidad3": "Máx. personas : 2",
+      "Mdia3": " Medio Día Reserva->$40, Entrar -> Medio Dia=$45",
+      "Cdia3": "Día completo Reserva->$50, Entrar ->$55",
+      "image or icon file names3":"https://ve.e-scooter.co/i/ho/nd/honda-pcx-electric/full/2181129eng-pcx-electric_01.webp",
+      
+    
+    
+      "name4": "Honda Pioneer ATV",
+      "Capacidad4": "Máx. personas : 4",
+      "Mdia4": " Medio Día Reserva->$50, Entrar ->$45",
+      "Cdia4": "Día completo Reserva->$50, Entrar ->$55",
+      "image or icon file names4":"https://powersports.honda.com/sxs/recutility/-/media/products/family/pioneer-1000/trims/trim-main/pioneer-1000/2024/2024-pioneer-1000-black_forest_green-650x380.png",
+    
+    
+      "name5": "Jeep Wrangler",
+      "Capacidad5": "Máx. personas : 5",
+      "Mdia5": " Medio Día Reserva->$70, Entrar ->$85",
+      "Cdia5": "Día completo Reserva->$100, Entrar ->$125",
+      "image or icon file names5":"https://upload.wikimedia.org/wikipedia/commons/9/9e/0_Jeep_Wrangler_Rubicon_%28JL%29_1.jpg",
+    
+    
+      "name6": "Jeep Wrangler 2 puertas",
+      "Capacidad6": "Máx. personas : 4",
+      "Mdia6": " Medio Día Reserva->$60, Entrar ->$70",
+      "Cdia6": "Día completo Reserva->$85, Entrar ->$90",
+      "image or icon file names6":"https://hips.hearstapps.com/hmg-prod/images/jeep-wrangler-rubicon-recon-1-1597313728.jpg?resize=2048:*"
+    
+    }
